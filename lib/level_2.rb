@@ -1,27 +1,29 @@
+# In each method, replace one "Ekki-ekki-ekki-ekki-PTANG" with "Ni!"
+
 def knights_shrubbery
   if "A shrubbery"
-    nil
+    "Ekki-ekki-ekki-ekki-PTANG"
   else
-    nil
+    "Ekki-ekki-ekki-ekki-PTANG"
   end
 end
 
 def knights_nil
   if nil
-    nil
+    "Ekki-ekki-ekki-ekki-PTANG"
   else
-    nil
+    "Ekki-ekki-ekki-ekki-PTANG"
   end
 end
 
 def knights_zero
-  0 ? nil : nil
+  0 ? "Ekki-ekki-ekki-ekki-PTANG" : "Ekki-ekki-ekki-ekki-PTANG"
 end
 
 def knights_true
-  true ? nil : nil
+  true ? "Ekki-ekki-ekki-ekki-PTANG" : "Ekki-ekki-ekki-ekki-PTANG"
 end
 
 def knights_false
-  false ? nil : nil
+  false ? "Ekki-ekki-ekki-ekki-PTANG" : "Ekki-ekki-ekki-ekki-PTANG"
 end
