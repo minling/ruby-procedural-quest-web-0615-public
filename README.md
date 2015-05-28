@@ -17,4 +17,4 @@ Time to go on a quest to master Ruby! Get the tests to pass.
 
 ## Level 2 Note
 
-Instructions: In each method, replace one "Ekki-ekki-ekki-ekki-PTANG" with "Ni!". Each method should return "Ni!"
+Instructions: In each method, replace one `"Ekki-ekki-ekki-ekki-PTANG"` with `"Ni!"`. Each method should return `"Ni!"`.
