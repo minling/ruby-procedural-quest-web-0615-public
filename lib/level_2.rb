@@ -2,8 +2,8 @@
 
 def knights_shrubbery
   if "A shrubbery"
-    "Ekki-ekki-ekki-ekki-PTANG"
-  else
+    "Ni!"
+  elsif
     "Ekki-ekki-ekki-ekki-PTANG"
   end
 end
@@ -12,18 +12,18 @@ def knights_nil
   if nil
     "Ekki-ekki-ekki-ekki-PTANG"
   else
-    "Ekki-ekki-ekki-ekki-PTANG"
+    "Ni!"
   end
 end
 
 def knights_zero
-  0 ? "Ekki-ekki-ekki-ekki-PTANG" : "Ekki-ekki-ekki-ekki-PTANG"
+  0 ? "Ni!" : "Ekki-ekki-ekki-ekki-PTANG"
 end
 
 def knights_true
-  true ? "Ekki-ekki-ekki-ekki-PTANG" : "Ekki-ekki-ekki-ekki-PTANG"
+  true ? "Ni!" : "Ekki-ekki-ekki-ekki-PTANG"
 end
 
 def knights_false
-  false ? "Ekki-ekki-ekki-ekki-PTANG" : "Ekki-ekki-ekki-ekki-PTANG"
+  false ? "Ekki-ekki-ekki-ekki-PTANG" : "Ni!" 
 end
